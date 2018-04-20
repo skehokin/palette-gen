@@ -1,0 +1,97 @@
+div {
+	position:relative;
+	border-radius: 5px;
+	margin: 2px;
+	}
+
+#dave {
+float:left;
+width:100px;
+height:100px;
+}
+
+#john {
+float:left;
+width:100px;
+height:100px;
+}
+#paul {
+float:left;
+width:100px;
+height:100px;
+}
+
+
+body{
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif
+
+
+	}
+
+
+#button{
+	clear:both;
+	width:300px;
+	text-align:center;
+	top:15px;
+
+	}
+
+
+#pal{
+
+	height:100px;
+	width:75px;
+	position:relative;
+
+	float: right;
+	}
+
+
+		#content{
+			width:100%-400px;
+			float:left;
+			margin-left:7%;
+			text-align:center;
+
+			padding:3px;
+			height: 500px;
+			border-radius:20px;
+			}
+
+#bg{
+	width:100%;
+
+
+	}
+	#saved{
+		float:right;
+		height:100px;
+		width:320px;
+		border:10px;
+		margin-right:100px;
+
+		}
+		#saver{
+			text-align:center;
+			position:relative;
+
+
+
+			}
+
+			button{
+				background-color:white;
+				color:#3A1211;
+				font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+				font-size:100%;
+				float:left;
+				border-radius:5px;
+				padding:4px 21px;
+				margin:0px
+
+				}
+	#clearer{
+		clear:both;
+
+		}
